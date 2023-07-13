@@ -1,0 +1,40 @@
+.project-primary__container{
+    width: 950px;
+    height: 500px;
+    border-radius: 20px;
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 20px 0;
+    
+
+}
+
+.project-primary__content{
+    width: 496px;
+    height: 524px;
+    margin-top: 69px;
+    margin-left: 130px;
+    padding-right: 10px;
+}
+.project-primary__content h2{
+    font-weight: bold;
+    /* font-size: 40px; */
+}
+.project-primary__content p{
+   color: #828282;
+}
+.project-primary__content button{
+    border: 2px black solid;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+ .project-primary__container img{
+    width: 496px;
+    height: 100%;
+    
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+

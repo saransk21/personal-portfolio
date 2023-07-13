@@ -1,0 +1,20 @@
+.project-container{
+    margin-top: 80px;
+    
+}
+.project-container .project-title{
+    text-align: center;
+}
+.project-container hr{
+    width: 100px;
+    height: 4px;
+    background-color: #FDC435;
+    border: none;
+}
+
+.project-about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

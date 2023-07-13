@@ -1,0 +1,37 @@
+.project-secondary__container{
+    width: 950px;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    border-radius: 20px;
+    display: flex;
+}
+
+.project-secondary__content{
+    width: 496px;
+    height: 524px;
+    margin-top: 69.44px;
+    margin-right: 50px;
+    margin-left: 70px;
+}
+.project-secondary__content h2{
+    font-weight: bold;
+   
+}
+.project-secondary__content p{
+   color: #828282;
+}
+.project-secondary__content button{
+    border: 2px black solid;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+ .project-secondary__container img{
+    width: 458px;
+    height: 100%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+

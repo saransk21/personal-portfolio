@@ -1,0 +1,12 @@
+.about-photo__container{
+    margin-left: 200px;
+}
+
+.about-photo__container img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 120px;
+    margin-right: 190px;
+   
+}
