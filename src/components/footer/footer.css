@@ -1,0 +1,23 @@
+
+.footer-container{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.footer-name{
+    color: #828282;
+    
+}
+.footer-name p{
+    margin: 5px  0;
+}
+.footer-icons{
+   margin-right: 20px;
+   
+}
+.footer-container .svg{
+    position: absolute;
+    left: 0;
+    /* margin: 0; */
+}

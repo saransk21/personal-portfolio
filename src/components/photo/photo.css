@@ -1,0 +1,19 @@
+.photo-container{
+
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+    
+
+}
+.photo-img{
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 70px;
+    margin-top: 70px;
+    
+    
+}
