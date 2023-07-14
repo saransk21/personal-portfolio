@@ -19,7 +19,7 @@ const Project = () => {
           imgUrl={
             "https://cdn.pixabay.com/photo/2020/04/03/06/35/work-4997565_1280.png"
           }
-          url={""}
+          url={"https://github.com/saransk21"}
         />
         <ProjectSecondary
           name={"News App"}
@@ -29,6 +29,7 @@ const Project = () => {
           imgUrl={
             "https://img.freepik.com/free-vector/female-hands-holding-mobile-phone-with-newsletter-screen-woman-reading-world-news-using-smartphone-app-internet-flat-vector-illustration-newspaper-information-press-media-concept_74855-24529.jpg?w=1060&t=st=1689169633~exp=1689170233~hmac=7892af6a05c0549fd77f2a750241a9b5fed2fb25c0ee0ee554d153f7ce1987da"
           }
+          url={"https://github.com/saransk21"}
         />
         <ProjectPrimary
         
@@ -39,6 +40,7 @@ const Project = () => {
           imgUrl={
             "https://img.freepik.com/free-vector/video-upload-concept-illustration_114360-6773.jpg?w=740&t=st=1689223460~exp=1689224060~hmac=384a5ddccad5ebdd4b49837981aaee49b9981b17a5a1e0475c97e275e3e9e86d"
           }
+          url={"https://github.com/saransk21"}
         />
       </div>
     </div>
