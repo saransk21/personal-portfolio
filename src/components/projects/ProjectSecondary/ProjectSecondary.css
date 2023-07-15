@@ -35,3 +35,25 @@
 
 }
 
+@media only screen and (max-width: 550px){
+    .project-secondary__container{
+        width: 600px;
+        height: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .project-secondary__content{
+        width: 100%;
+        height: 100%;
+        margin: 10px 20px 50px ;
+        text-align: center;
+        
+    }
+    .project-secondary__center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 200px;
+    }
+}

@@ -5,6 +5,7 @@ const ProjectSecondary = ({name,des,url,imgUrl}) => {
     window.open(url,'_blank');
   }
   return (
+    <div className="project-secondary__center">
     <div className="project-secondary__container">
       <img src={imgUrl} alt="projectimg" />
       <div className="project-secondary__content">
@@ -14,6 +15,7 @@ const ProjectSecondary = ({name,des,url,imgUrl}) => {
         </p>
         <button onClick={openProject}>View Project</button>
       </div>
+    </div>
     </div>
   );
 };

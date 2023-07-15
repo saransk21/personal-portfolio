@@ -5,6 +5,7 @@ const ProjectPrimary = ({name,des,url,imgUrl}) => {
     window.open(url,'_blank');
   }
   return (
+    <div className='project-primary__center'>
     <div className='project-primary__container'>
         <div className='project-primary__content'>
             <h2>{name}</h2>
@@ -14,6 +15,7 @@ const ProjectPrimary = ({name,des,url,imgUrl}) => {
         <img src={imgUrl}  alt='projectimg'/>
         
       
+    </div>
     </div>
   )
 }
