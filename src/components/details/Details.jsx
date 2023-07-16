@@ -17,10 +17,11 @@ const Details = () => {
         </div>
         <div className="subheading">
           <p>
-            I am a highly skilled and experienced Front-End Developer with a
+            {/* I am a highly skilled and experienced Front-End Developer with a
             proven track record in designing and developing captivating web
             applications. With expertise in HTML, CSS, JavaScript, React, Redux,
-            and GraphQL
+            and GraphQL */}
+            Passionate software developer with a drive for innovation and problem-solving.
           </p>
         </div>
         <div className="buttons">

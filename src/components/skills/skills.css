@@ -1,0 +1,11 @@
+.skills__container{
+    width: 50%;
+    
+}
+.skills__container-data{
+    display: flex;
+    flex-wrap: wrap;
+}
+.skills_container-title h1{
+    text-align: center;
+}

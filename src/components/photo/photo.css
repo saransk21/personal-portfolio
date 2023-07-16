@@ -17,15 +17,4 @@
     
     
 }
-@media only screen and (max-width: 998px) {
-    .photo-img{
-        display: none;
-        /* position: relative;
-        margin-left: 350px; */
-        
-    }
-    .photo-container{
-        display: none;
-        /* left: 0; */
-    }
-}
+

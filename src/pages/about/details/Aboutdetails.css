@@ -1,8 +1,10 @@
 .about-details__container{
-    margin-top: 70px;
-    
-    width: 588px;
-    height: 313px;
+    /* margin-top: 70px; */
+    width: 50%;
+    height: 100%;
+    margin-left: 7.5rem;
+    margin-right: 1rem;
+    text-align: center;
 }
 .about-details__container h2{
     font-size: 40px;
@@ -22,4 +24,5 @@
     font-weight: medium;
     background-color: #FDC435;
     color: black;
+    
 }
