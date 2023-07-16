@@ -1,5 +1,6 @@
 import React from "react";
 import "./details.css";
+import {AiFillGithub,AiFillLinkedin} from 'react-icons/ai'
 const Details = () => {
   const openLinkedin = () => {
     window.open("https://www.linkedin.com/in/saran-kumar-1a3a51200", "_blank");
@@ -17,19 +18,16 @@ const Details = () => {
         </div>
         <div className="subheading">
           <p>
-            {/* I am a highly skilled and experienced Front-End Developer with a
-            proven track record in designing and developing captivating web
-            applications. With expertise in HTML, CSS, JavaScript, React, Redux,
-            and GraphQL */}
             Passionate software developer with a drive for innovation and problem-solving.
           </p>
         </div>
         <div className="buttons">
           <button className="primary" onClick={openGithub}>
-            GitHub
+            
+            <AiFillGithub size={40} />
           </button>
           <button className="secondary" onClick={openLinkedin}>
-            LinkedIn
+            <AiFillLinkedin size={40}/>
           </button>
         </div>
       </div>

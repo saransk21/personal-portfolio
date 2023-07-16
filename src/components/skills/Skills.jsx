@@ -39,7 +39,7 @@ const Skills = () => {
       </div>
       <div className="skills__container-data">
         {data.map((dat) => (
-          <Skill img={dat.img} title={dat.title}/>
+          <Skill img={dat.img} title={dat.title} />
         ))}
       </div>
     </div>
