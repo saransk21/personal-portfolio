@@ -2,7 +2,7 @@
 .details-container{
     width: 486px;
     height: 408px;
-    margin-left: 120px;
+    margin-left: 7.5rem;
     margin-top: 50px;
 }
 .details-title{
@@ -29,18 +29,21 @@
 }
 .details-content .subheading{
     color: #828282;
+    font-size: 30px;
     line-height: 150%;
 }
 .details-content .buttons .primary{
     border: none;
-    background-color: #FDC435;
+    background-color: white;
+    /* color: #FDC435; */
     padding: 10px;
     border-radius: 5px;
     cursor: pointer;
 }
 .details-content .buttons .secondary{
-    border: 2px black solid;
+    border: none;
     background-color:white;
+    color: #FDC435;
     padding: 10px;
     border-radius: 5px;
     margin-left: 10px;
@@ -49,18 +52,3 @@
 }
 
 
-@media only screen and (max-width: 600px){
-    .details-container{
-        font-size: 25px;
-        margin-bottom: 200px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-    .details-container .buttons button{
-        width: 100px;
-        height: 60px;
-        font-size: large;
-    }
-}

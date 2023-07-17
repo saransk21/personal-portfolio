@@ -22,46 +22,11 @@
     border-radius: 30px;
 
 }
-@media only screen and (min-width: 550px) and (max-width:800px){
-    .nav-container div .nav-title h4 {
-        width: 60px;
-        /* padding:  0  20px; */
-    }
-}
-@media only screen and (max-width: 800px) {
-    .nav-container div .nav-title{
-        margin-left: 120px;
-        background-color: #FDC435;
-        padding:  0  20px;
-        border-radius: 30px;
-        font-size: large;
-    }
-}
 
 .nav-container .nav-menu{
     margin-right: 10%;
 }
-@media only screen and (max-width: 800px) {
-    .nav-container .nav-menu{
-        margin-left: 100px;
-        
-    }
-    .nav-container .nav-menu ul li{
-        font-size: large;
-    }
-}
-@media only screen and (max-width: 370px){
-    .nav-container .nav-menu{
-        margin-left: 50px;
-        
-    }
-}
-@media only screen and (min-width:500px) and (max-width: 800px){
-    .nav-container .nav-menu{
-        margin-left: 200px;
-        
-    }
-}
+
 .nav-container .nav-menu ul li:hover{
     background-color: white;
     color: #FDC435;

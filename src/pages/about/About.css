@@ -1,5 +1,9 @@
 .about-container{
+    margin-top: 5rem;
     display: flex;
     justify-content: center;
     align-items:self-start;
+    height: 100%;
+    /* flex-wrap: wrap; */
+    width: 100%;
 }

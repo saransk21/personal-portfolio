@@ -11,9 +11,12 @@ const Aboutdetails = () => {
             applications. With expertise in HTML, CSS, JavaScript, React, Redux,
             and GraphQL
       </p>
+    
       <a href={cv} download>
         Resume
       </a>
+      
+      
     </div>
   );
 };
